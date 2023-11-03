@@ -1,5 +1,6 @@
 def main():
-    print("Hello from release")
+    print('Hello world!')
+    print("Hello from feature")
 
 
 if __name__ == "__main__":
